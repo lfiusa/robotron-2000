@@ -11,7 +11,6 @@ Foi criada também uma função para atualizar as estatísticas do Robotron exib
 ![image](https://github.com/lfiusa/robotron-2000/assets/142631493/63e3720a-3cac-4978-86f9-bedb8e5ed091)
 
 
-
 ## Ferramentas utilizadas:
 
 * HTML;
