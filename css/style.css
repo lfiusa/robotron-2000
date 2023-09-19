@@ -9,9 +9,9 @@
 }
 
 body {
-    background: url(../img/fundo.jpg);
+    background: url(../img/fundo2.jpg);
     background-position: center center;
-    background-size: cover cover;
+    background-size: 1910px 900px;
     padding: 0;
     margin: 0;
     font-weight: 300;
