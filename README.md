@@ -8,7 +8,7 @@ Nesse código foi elaborada uma função com a estrutura condicional if e else, 
 
 Foi criada também uma função para atualizar as estatísticas do Robotron exibidas nos elementos HTML com base nos valores contidos no array peças adicionados ou subtraídos.
 
-![image]![Alt text](image.png)
+![image](image.png)
 
 
 
