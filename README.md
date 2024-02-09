@@ -1,4 +1,4 @@
-# Robotron 2000 👾
+# Robotron 2000
 
 Projeto de JavaScript desenvolvido com o curso de JavaScript: manipulando o DOM, da Alura.
 
@@ -24,4 +24,4 @@ Foi criada também uma função para atualizar as estatísticas do Robotron exib
 
 ### Luana Fiusa
 
-### Linkedin: https://www.linkedin.com/in/luana-fiusa-884068b3/
+### Linkedin: https://www.linkedin.com/in/luana-fiusa-/
